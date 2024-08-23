@@ -1,8 +1,10 @@
 # MADHAV-ECOMMERCE-SALES-DASHBOARD-PROJECT
-Overview
+Overview -
+
 Created an interactive dashboard to track and analyze online sales data. The dashboard allows users to drill down into worksheets, customize views using filters and slicers, and leverage various visualization types to gain insights.
 
-Features
+Features -
+
 Advanced Drill-Down and Customization: Utilized complex parameters to enable detailed drill-downs in worksheets, with extensive customization through filters and slicers.
 
 Data Manipulation: Loaded and manipulated data from CSV files, Established connections and joins between new tables, performed calculations to manipulate data,and created user-driven parameters to enhance visualizations.
